@@ -80,4 +80,13 @@ h2 {
     float: left;
     width: 100%;
   }
+  .chicken {
+    width: 120px;
+  }
+  .beef {
+    width: 120px;
+  }
+  .sushi {
+    width: 120px;
+  }
 }
